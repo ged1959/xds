@@ -1,6 +1,6 @@
 {
     "title": "XD plugins",
-    "description": "",
+    "description": "test",
     "plugins": ["expandable-chapters"],
     "language": "ja",
     "gitbook": ">= 3.0.0",
