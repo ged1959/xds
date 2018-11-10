@@ -1,0 +1,9 @@
+# Introduction
+
+## これはXDのドキュメント翻訳用
+
+今の所はテスト。使えるかどうか。
+
+gitbookはgitで管理しているドキュメントを簡単にHTMLやPDF、EPUBに変換するサービスです。 基本的にはMarkdown記法のドキュメントをコマンドラインで変換します。 gitbookコマンドはNodo.jsで実現されています。
+
+gitbookはgitで管理しているドキュメントを簡単にHTMLやPDF、EPUBに変換するサービスです。 基本的にはMarkdown記法のドキュメントをコマンドラインで変換します。 gitbookコマンドはNodo.jsで実現されています。gitbookはgitで管理しているドキュメントを簡単にHTMLやPDF、EPUBに変換するサービスです。 基本的にはMarkdown記法のドキュメントをコマンドラインで変換します。 gitbookコマンドはNodo.jsで実現されています。# xds
